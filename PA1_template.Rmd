@@ -1,9 +1,11 @@
 # Reproducible Research: Peer Assessment 1
-Reproducible Research: Peer Assessment 1
 ========================================
 Fernando Crema   
 Central University of Venezuela  
 Wireless and Mobile Networks Institute  
+fernando.crema@ciens.ucv.ve
+
+I don't analize data here because it wasn't in the requirements.
 
 ## Loading and preprocessing the data
 
